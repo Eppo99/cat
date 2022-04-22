@@ -1,5 +1,4 @@
 import 'package:bloc/bloc.dart';
-import 'package:cats/data/cat_hive.dart';
 import 'package:cats/data/cat_model.dart';
 import 'package:cats/data/repository.dart';
 import 'package:hive/hive.dart';
